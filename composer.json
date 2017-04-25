@@ -1,0 +1,15 @@
+{
+  "name": "jakubdusek/file-generator",
+  "description": "Library for generate files",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jakub Dušek", "email": "jakub.dusek@hexako.cz"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Hexako\\Generator\\": ""
+    }
+  }
+}
